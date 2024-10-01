@@ -39,6 +39,6 @@ if __name__ == '__main__':
     root = tk.Tk()
     root.title("Hello Tkinter")
     show_ui(root)
-
+    print("Hello Tkinter")
     # khởi động UI
     root.mainloop()
